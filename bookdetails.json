@@ -1,0 +1,6 @@
+{
+  "guests": [
+    { "id": 1, "name": "Hari", "salary": "50000", "age": "23" },
+    { "id": 2, "name": "Arjun", "salary": "60000", "age": "25" }
+  ]
+}
